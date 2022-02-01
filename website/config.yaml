@@ -55,15 +55,13 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "Claudia Villena"
   namecolor: ffc107
-  profession: "Profession"
-  github: "https://github.com"
-  gitlab: "https://gitlab.com"
-  linkedin: "https://linkedin.com"
-  twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  profession: "Political scientist"
+  github: "https://github.com/ClaudiaVillena27"
+  linkedin: "https://www.linkedin.com/in/claudiavillenatagle/"
+  facebook: "https://www.facebook.com/claudia.villena.52"
+
 
   #Custom social links
   # customSocialLinks:
@@ -74,46 +72,46 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hello! My name is Claudia Villena. I graduated in Political Science and Government from the Pontificia Universidad Catolica del Peru (PUCP). I got an outstanding mention in my thesis investigation about corruption in public procurement."
+  descripe_l2_person: "I am currently working as an academic assistant in the PUCP, in the specialization of Political Science. I am engaged in teaching activities as a Teachers's assistant in Political Economics at the same department. Prior to joining the PUCP, I worked as a project assistant in the Municipality of Miraflores, in the department of Urban Mobility and as Research Assistant, in the Jurado Nacional de Elecciones (JNE). By the time, i have been working on developing my abilities in Data Science and quantitative methods of research. My goal is to develop my professional career in corruption and security field applying my analytical skills."
   skills:
-    - name: CSS
+    - name: SPSS
       percentage: 90
-    - name: Django
+    - name: R Studio
       percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: Python
+      percentage: 50
+    - name: Google Data Studio
+      percentage: 90
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "Pontificia Universidad Católica del Perú"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
-      role: "Software developer"
-      startdate: Feb 2021
+      role: "Academic Assistant"
+      startdate: Jul 2021
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
+        - point: Attend the academic affairs of the Political Science Specialty, Social Science.
+    - company: "DNEF- JNE"
       # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+      role: "Research Assistant for the Visualization of data"
+      startdate: Mar 2021
+      enddate: Jun 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
+        - point: Assistance in statistical analysis and visualization of data from research projects.
+        - point: Assistance in the application of surveys and collection of quantitative and qualitative information.
+        - point: Data analysis in R
+    - company: "Municipalidad de Miraflores"
       # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
+      role: "Project Assistant"
+      startdate: Jan 2020
+      enddate: Feb 2021
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-
+        - point: Support in the elaboration of the Strategic Plan of the Municipality of Miraflores, departament of Urban Mobility.
+        - point: Data analysis in R.
+        - point: Development of visualization boards in Google DataStudio
   # Education
   disable_education: false
   education:
