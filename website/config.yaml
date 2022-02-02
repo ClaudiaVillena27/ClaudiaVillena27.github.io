@@ -131,12 +131,6 @@ params:
 
   # Projects
   disable_projects: false
-  projects:
-    - name: "Analysis of the experiences and degrees of tolerance to corruption in Peru (2019)"
-      img: "/images/Index.png"
-      githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
-      featuredlink: "/"
-      description: "This report analyze the attitudes and experiences of Peruvians regarding corrupt behavior."
     - name: "The Construction Club: an approach to study corruption in public procurement in Peru (2002-2016)"
       img: "/images/Tesis.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17882"
@@ -157,7 +151,11 @@ params:
       githublink: "https://www.facebook.com/decisionlabPUCP/posts/295907282158772"
       featuredlink: "/"
       description: "With the Decision Lab team, MDP Consulting, Data Science Research Peru and Transparency Peru, we developed a virtual assistant that helped answer questions about the 2021 General Elections."
-     
+    - name: "Analysis of the experiences and degrees of tolerance to corruption in Peru (2019)"
+      img: "/images/Index.png"
+      githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
+      featuredlink: "/"
+      description: "This report analyze the attitudes and experiences of Peruvians regarding corrupt behavior."   
 
   # Achievements
   disable_achievements: false
