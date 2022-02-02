@@ -132,11 +132,6 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Example project without details"
-      img: /images/project.jpg
-      githublink: "https://github.com/"
-      featuredlink: "/"
-      description: "Description of project"
     - name: "Analysis of the experiences and degrees of tolerance to corruption in Peru (2019)"
       img: "/images/Index.png"
       githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
