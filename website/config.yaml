@@ -88,14 +88,14 @@ params:
   disable_experience: false
   experience:
     - company: "Pontificia Universidad Católica del Perú"
-      # id: "google-developer"   // use this, when you want to change the id(used for navigation)
+      id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Academic Assistant"
       startdate: Jul 2021
       enddate: present
       featuredpoints:
         - point: Attend the academic affairs of the Political Science Specialty, Social Science.
     - company: "DNEF- JNE"
-      # id: "facebook-developer" // use this, when you want to change the id(used for navigation)
+      id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Research Assistant for the Visualization of data"
       startdate: Mar 2021
       enddate: Jun 2021
@@ -104,7 +104,7 @@ params:
         - point: Assistance in the application of surveys and collection of quantitative and qualitative information.
         - point: Data analysis in R
     - company: "Municipalidad de Miraflores"
-      # id: "amazon-developer" // use this, when you want to change the id(used for navigation)
+      id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Project Assistant"
       startdate: Jan 2020
       enddate: Feb 2021
@@ -132,6 +132,11 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "Example project without details"
+      img: /images/project.jpg
+      githublink: "https://github.com/"
+      featuredlink: "/"
+      description: "Description of project"
     - name: "Analysis of the experiences and degrees of tolerance to corruption in Peru (2019)"
       img: "/images/Index.png"
       githublink: "https://github.com/ClaudiaVillena27/Corruption_peru"
