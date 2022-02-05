@@ -131,6 +131,7 @@ params:
 
   # Projects
   disable_projects: false
+  projects:
     - name: "The Construction Club: an approach to study corruption in public procurement in Peru (2002-2016)"
       img: "/images/Tesis.jpg"
       githublink: "https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/17882"
