@@ -87,14 +87,14 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Pontificia Universidad Católica del Perú"
+    - company: "Pontificia-Universidad-Católica-del-Perú"
       #id: "google-developer"   // use this, when you want to change the id(used for navigation)
       role: "Academic Assistant"
       startdate: Jul 2021
       enddate: present
       featuredpoints:
         - point: Attend the academic affairs of the Political Science Specialty, Social Science.
-    - company: "DNEF- JNE"
+    - company: "DNEF-JNE"
       #id: "facebook-developer" // use this, when you want to change the id(used for navigation)
       role: "Research Assistant for the Visualization of data"
       startdate: Mar 2021
@@ -103,7 +103,7 @@ params:
         - point: Assistance in statistical analysis and visualization of data from research projects.
         - point: Assistance in the application of surveys and collection of quantitative and qualitative information.
         - point: Data analysis in R
-    - company: "Municipalidad de Miraflores"
+    - company: "Municipalidad-de-Miraflores"
       #id: "amazon-developer" // use this, when you want to change the id(used for navigation)
       role: "Project Assistant"
       startdate: Jan 2020
